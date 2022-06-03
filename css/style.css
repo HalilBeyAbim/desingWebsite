@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;}
+#First{
+    text-align: center;
+    background-image:url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg) ;
+    padding: 210px 0px;
+    background-position: center;
+    background-size: cover;
+}
+#First h1{
+    font-size: 88px;
+}
+#First h3{
+    font-size: 28px;
+    font-style: oblique;
+    padding: 1px 0px 26px;
+}
+#First a{
+    text-decoration: none;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: blanchedalmond;
+    border-radius: 5px;
+}
+#Second{
+    text-align: center;
+    padding: 135px 0px;
+}
+#Second h2{
+    font-size: 32px;
+    
+}
+#Second .First{
+color: #1d809f;
+}
+#Second .Second{
+    background-color: #212529;
+    color:blanchedalmond;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#Third{
+    width: 100%;
+    background-position: center;
+}
+#Fourth{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 210px 0px;
+    background-position: center;
+    background-size: cover;
+    margin: -4px 0px;
+}
+#Fourth a{
+    text-decoration: none;
+    background-color: #1d809f;
+    padding: 20px 40px;
+    color: blanchedalmond;
+    border-radius: 5px;
+}
+#Fourth h2{
+    font-size: 56px;
+    margin: 30px 0px;
+}
+#Fifth{
+    text-align: center;
+    background-color: #1d809f;
+    padding: 135px;
+}
+#Fifth h2{
+color: blanchedalmond;
+font-size: 32px;
+margin: 50px 0px;
+}
+#Fifth .Third{
+    background-color: blanchedalmond;
+    color: #212529;
+    padding: 20px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+   
+}
+#Fifth .Fourth{
+    background-color: #212529;
+    color:blanchedalmond;
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin: 0px 30px;
+    text-decoration: none;
+}
